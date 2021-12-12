@@ -5,3 +5,6 @@ Completed on Nov 29, 2021.
 
 ## Week 3
 Completed on Dec 5, 2021.
+
+## Week 4
+Completed on Dec 11, 2021.
