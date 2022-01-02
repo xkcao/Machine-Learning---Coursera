@@ -14,3 +14,6 @@ Completed on Dec 19, 2021.
 
 ## Week 6
 Completed on Dec 26, 2021.
+
+## Week 7
+Completed on Jan 2, 2022.
