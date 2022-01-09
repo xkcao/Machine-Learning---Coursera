@@ -17,3 +17,6 @@ Completed on Dec 26, 2021.
 
 ## Week 7
 Completed on Jan 2, 2022.
+
+## Week 8
+Completed on Jan 9, 2022.
