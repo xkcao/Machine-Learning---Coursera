@@ -20,3 +20,6 @@ Completed on Jan 2, 2022.
 
 ## Week 8
 Completed on Jan 9, 2022.
+
+## Week 9
+Completed on Jan 16, 2022.
