@@ -26,3 +26,9 @@ Completed on Jan 16, 2022.
 
 ## Week 10
 Completed on Jan 17, 2022.
+
+## Week 11
+Completed on Jan 17, 2022.
+
+## End
+The whole course was completed on Jan 17, 2022.
